@@ -1,4 +1,3 @@
-![logo](https://github.com/Dwarikanath98/Dwarikanath98/blob/main/Mybanner.png)
 <h1 align="center">Hi 👋, I'm Dwarikanath Biswal</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
